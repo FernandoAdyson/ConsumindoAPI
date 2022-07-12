@@ -1,0 +1,31 @@
+.form-control {
+  width: 40%;
+}
+
+#pesquisar {
+  position: absolute;
+  margin-top: 10px
+}
+
+#card {
+  position: absolute;
+  margin-top: 100px;
+}
+
+.modal-body {
+  color: #000000
+}
+
+.modal-title {
+  color: #000000
+}
+
+.btn-close {
+  visibility: hidden;
+}
+
+@media only screen and (min-width: 1000px) {
+  .form-control {
+    width: 15%;
+  }
+}
